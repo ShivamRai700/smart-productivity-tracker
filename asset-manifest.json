@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/smart-productivity-tracker/static/css/main.a3ff4f4e.css",
-    "main.js": "/smart-productivity-tracker/static/js/main.157ad35c.js",
+    "main.css": "/smart-productivity-tracker/static/css/main.0c0b8856.css",
+    "main.js": "/smart-productivity-tracker/static/js/main.28092c6c.js",
     "static/js/453.1cba7fdd.chunk.js": "/smart-productivity-tracker/static/js/453.1cba7fdd.chunk.js",
     "index.html": "/smart-productivity-tracker/index.html",
-    "main.a3ff4f4e.css.map": "/smart-productivity-tracker/static/css/main.a3ff4f4e.css.map",
-    "main.157ad35c.js.map": "/smart-productivity-tracker/static/js/main.157ad35c.js.map",
+    "main.0c0b8856.css.map": "/smart-productivity-tracker/static/css/main.0c0b8856.css.map",
+    "main.28092c6c.js.map": "/smart-productivity-tracker/static/js/main.28092c6c.js.map",
     "453.1cba7fdd.chunk.js.map": "/smart-productivity-tracker/static/js/453.1cba7fdd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3ff4f4e.css",
-    "static/js/main.157ad35c.js"
+    "static/css/main.0c0b8856.css",
+    "static/js/main.28092c6c.js"
   ]
 }
